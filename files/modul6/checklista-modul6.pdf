@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>    Nie znaleziono takiej strony  
+ Heksagon</title>
+        <meta name="description" content="Platforma multilearningowa - Gra o Milion">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Clientelo"> 
+        <link href="/favicon..png" rel="shortcut icon">
+       <link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:400,500,700&amp;subset=latin-ext" rel="stylesheet"> 
+       <link href="https://fonts.googleapis.com/css?family=Merienda:400,700&amp;subset=latin-ext" rel="stylesheet"> 
+       
+                   <link href="/bundles/project2admin/css/semantic.css" rel="stylesheet">
+            <link href="/bundles/project2admin/css/bootstrap.css" rel="stylesheet">
+            <link href="/bundles/project2admin/css/bootstrap-theme.css" rel="stylesheet">
+            <link href="/bundles/project2admin/css/select2.css" rel="stylesheet">
+            <link href="/bundles/project2admin/css/normalize.css" rel="stylesheet">
+            <link href="/bundles/project2blog/css/blog.css" rel="stylesheet">
+            <link href="/bundles/project2main/css/main.css" rel="stylesheet">
+                
+            </head>
+    <body class="error-body">
+        <style>
+            body,
+            body.error-body{
+                background: #fff;
+                color:#fff;
+            }
+            img.logoImg{
+                max-width:300px;
+                width:300px;
+            }
+            .errorMsg{
+                color:#222;
+                text-shadow:none;
+            }
+            .errorLink{}
+        </style>
+        <div class="error-box">
+            
+                <a href="/panel/"><img src="/img/heksagon-logo-bez-bg.png" class="logoImg error-img" alt="Heksagon_logo"/></a>          
+   
+            
+            <div class="error-title">
+                    <p class="errorMsg">Nie znaleziono takiej strony                </p>
+            </div>
+            
+            <div class="error-content">
+                    <p><a class="ui primary button large btn-lg errorLink" href="/panel/" role="button">Wróć na stronę główną lub zaloguj się &raquo;</a></p>
+            </div>
+        </div>
+            
+                                            <script src="/js/619a7ea.js" ></script>
+                            </body>
+</html>
